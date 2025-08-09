@@ -2,6 +2,9 @@
 
 Este é um projeto de análise salarial com visualização interativa desenvolvido durante a **Imersão de Dados da Alura**. O projeto foi adaptado e personalizado por mim para fazer parte do meu portfólio.
 
+## Veja o Dashboard aqui:
+[Visualizar Dashboard no Streamlit](https://salarydash.streamlit.app/)
+
 
 ##  Funcionalidades
 
