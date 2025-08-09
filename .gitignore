@@ -1,0 +1,33 @@
+# Arquivos do ambiente Conda (não versiona o ambiente inteiro)
+env/
+venv/
+*.conda
+*.env
+.ipynb_checkpoints/
+.venv
+
+# Pasta criada pelo Conda para o ambiente
+/anaconda3/
+/miniconda3/
+
+# Arquivos do cache do Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*$py.class
+*.egg-info/
+
+# VS Code settings e caches
+.vscode/
+*.code-workspace
+
+# Arquivos e pastas temporárias do sistema Windows
+Thumbs.db
+Desktop.ini
+
+
+# Outros arquivos temporários
+*.log
+*.tmp
